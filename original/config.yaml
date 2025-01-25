@@ -1,11 +1,11 @@
 API:
   LARGE_MODEL: meta-llama/Meta-Llama-3.1-70B-Instruct
-  LARGE_API_KEY: key-here
-  LARGE_BASE_URL: https://api.deepinfra.com/v1/openai
+  LARGE_API_KEY: 723b72f49ddb88918cbc50fca51fc0331cd8f5d5bd207230b79a63b4acfcd411
+  LARGE_BASE_URL: https://api.together.ai/v1
   LARGE_MODE: api
   SMALL_MODEL: meta-llama/Meta-Llama-3.1-8B-Instruct
-  SMALL_BASE_URL: https://api.deepinfra.com/v1/openai
-  SMALL_API_KEY: key-here
+  SMALL_BASE_URL: https://api.together.ai/v1
+  SMALL_API_KEY: 723b72f49ddb88918cbc50fca51fc0331cd8f5d5bd207230b79a63b4acfcd411
   SMALL_MODE: api
 HUGGINGFACE:
   HUB_PATH: yourusername/your-path-here
